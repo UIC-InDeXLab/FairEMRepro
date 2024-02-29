@@ -17,6 +17,8 @@ We tried our best to make the reproducibility process as simple as possible. Ple
 - Create a virtual environment: ```python -m venv venv```
 - Activate the virtual environment: ```source venv/bin/activate``` 
 - Install required packages: ```pip install -r requirements.txt```
+- To run Jupyter notebook in local machine: ```jupyter notebook```
+- To run Jupyter notebbok on server without browser: ```jupyter notebook --no-browser```
 
 ### Step 2:  Generating Matching Results
 - Make sure that you have docker properly installed with non-root user permissions, 
