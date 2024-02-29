@@ -11,6 +11,7 @@ Companion repository for reproducing the results of the paper "Through the Fairn
 ## Instructions:
 We tried our best to make the reproducibility process as simple as possible. Please be advised that to run the experiments, you need a Cuda-supported machine with NVIDIA GPUs. Please follow the three steps below:
 
+ 
 ### Step 1: Installation
 - Clone the repo: ```git clone https://github.com/UIC-InDeXLab/FairEMRepro.git```
 - Enter the project's main directory: ```cd FairEMRepro/```
@@ -20,13 +21,16 @@ We tried our best to make the reproducibility process as simple as possible. Ple
 - To run Jupyter notebook in local machine: ```jupyter notebook```
 - To run Jupyter notebbok on server without browser: ```jupyter notebook --no-browser```
 
+#### Notice 1:
+- Due to the long running time of the matchers, we have provided the prediction results based on a run in the repository. If you want to use the existing predictions and directly move to running the analysis, you can skip step 2. Otherwise, run the ```bash remove_results.sh``` script and move to step 3.
+
 ### Step 2:  Generating Matching Results
 - Make sure that you have docker properly installed with non-root user permissions, 
 - Make sure you have an NVIDIA GPU available and docker has access to GPU. See [here](https://docs.docker.com/config/containers/resource_constraints/#gpu) for more information.
 - Run the jupyter notebook ```train.ipynb``` to train all the matching models and create the predictions for all datasets.
 - Please note that when the run is over, it is needed to enter your root password to change permissions to the current user in the notebook.
 
-#### Notice
+#### Notice 2
 Please be advised that depending on the matcher, dataset, and the number of epochs each training task could take between a few minutes to a few days. Running all tasks using each matcher with the default parameters (epoch=10) took us about a week to finish (with GNEM being the slowest due to the high Cuda memory requirements). That being said, we have provided the results of a full run (with 10 epochs) in the repository in case anyone needs to skip the tedious training step.
 
 ### Step 3: Analysis and Visualization of The Results
