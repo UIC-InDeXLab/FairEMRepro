@@ -30,7 +30,7 @@ We tried our best to make the reproducibility process as simple as possible. Ple
 - Run the jupyter notebook ```train.ipynb``` to train all the matching models and create the predictions for all datasets.
 - Please note that when the run is over, it is needed to enter your root password to change permissions to the current user in the notebook.
 
-#### Notice 2
+#### Notice 2:
 Please be advised that depending on the matcher, dataset, and the number of epochs each training task could take between a few minutes to a few days. Running all tasks using each matcher with the default parameters (epoch=10) took us about a week to finish (with GNEM being the slowest due to the high Cuda memory requirements). That being said, we have provided the results of a full run (with 10 epochs) in the repository in case anyone needs to skip the tedious training step.
 
 ### Step 3: Analysis and Visualization of The Results
