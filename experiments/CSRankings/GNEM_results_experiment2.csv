@@ -1,0 +1,19 @@
+measure,sens_attr,is_fair,counts
+accuracy_parity,cn | cn,True,713714.0
+accuracy_parity,cn | de,True,255725.0
+accuracy_parity,de | de,True,114992.0
+statistical_parity,cn | cn,True,713714.0
+statistical_parity,cn | de,True,255725.0
+statistical_parity,de | de,True,114992.0
+true_positive_rate_parity,cn | cn,True,713714.0
+true_positive_rate_parity,cn | de,True,255725.0
+true_positive_rate_parity,de | de,True,114992.0
+false_positive_rate_parity,cn | cn,True,713714.0
+false_positive_rate_parity,cn | de,True,255725.0
+false_positive_rate_parity,de | de,True,114992.0
+negative_predictive_value_parity,cn | cn,True,713714.0
+negative_predictive_value_parity,cn | de,True,255725.0
+negative_predictive_value_parity,de | de,True,114992.0
+positive_predictive_value_parity,cn | cn,True,713714.0
+positive_predictive_value_parity,cn | de,True,255725.0
+positive_predictive_value_parity,de | de,True,114992.0

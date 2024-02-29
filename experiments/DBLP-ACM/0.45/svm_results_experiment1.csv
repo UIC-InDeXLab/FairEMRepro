@@ -1,0 +1,61 @@
+measure,sens_attr,is_fair,counts
+positive_predictive_value_parity,Sigmod,True,757.0
+positive_predictive_value_parity,VLDB J.,False,286.0
+positive_predictive_value_parity,Sigmod Rec.,False,556.0
+positive_predictive_value_parity,Sigmod Rec.,False,578.0
+positive_predictive_value_parity,Sigmod,True,852.0
+positive_predictive_value_parity,VLDB,True,743.0
+positive_predictive_value_parity,VLDB J.,True,259.0
+positive_predictive_value_parity,VLDB,True,630.0
+positive_predictive_value_parity,TODS,True,136.0
+positive_predictive_value_parity,TODS,True,149.0
+negative_predictive_value_parity,Sigmod,True,757.0
+negative_predictive_value_parity,VLDB J.,True,286.0
+negative_predictive_value_parity,Sigmod Rec.,True,556.0
+negative_predictive_value_parity,Sigmod Rec.,True,578.0
+negative_predictive_value_parity,Sigmod,True,852.0
+negative_predictive_value_parity,VLDB,True,743.0
+negative_predictive_value_parity,VLDB J.,True,259.0
+negative_predictive_value_parity,VLDB,True,630.0
+negative_predictive_value_parity,TODS,True,136.0
+negative_predictive_value_parity,TODS,True,149.0
+false_positive_rate_parity,Sigmod,True,757.0
+false_positive_rate_parity,VLDB J.,True,286.0
+false_positive_rate_parity,Sigmod Rec.,True,556.0
+false_positive_rate_parity,Sigmod Rec.,True,578.0
+false_positive_rate_parity,Sigmod,True,852.0
+false_positive_rate_parity,VLDB,True,743.0
+false_positive_rate_parity,VLDB J.,True,259.0
+false_positive_rate_parity,VLDB,True,630.0
+false_positive_rate_parity,TODS,True,136.0
+false_positive_rate_parity,TODS,True,149.0
+true_positive_rate_parity,Sigmod,True,757.0
+true_positive_rate_parity,VLDB J.,True,286.0
+true_positive_rate_parity,Sigmod Rec.,True,556.0
+true_positive_rate_parity,Sigmod Rec.,True,578.0
+true_positive_rate_parity,Sigmod,True,852.0
+true_positive_rate_parity,VLDB,True,743.0
+true_positive_rate_parity,VLDB J.,True,259.0
+true_positive_rate_parity,VLDB,True,630.0
+true_positive_rate_parity,TODS,True,136.0
+true_positive_rate_parity,TODS,True,149.0
+statistical_parity,Sigmod,True,757.0
+statistical_parity,VLDB J.,True,286.0
+statistical_parity,Sigmod Rec.,True,556.0
+statistical_parity,Sigmod Rec.,True,578.0
+statistical_parity,Sigmod,True,852.0
+statistical_parity,VLDB,True,743.0
+statistical_parity,VLDB J.,True,259.0
+statistical_parity,VLDB,True,630.0
+statistical_parity,TODS,True,136.0
+statistical_parity,TODS,True,149.0
+accuracy_parity,Sigmod,True,757.0
+accuracy_parity,VLDB J.,True,286.0
+accuracy_parity,Sigmod Rec.,True,556.0
+accuracy_parity,Sigmod Rec.,True,578.0
+accuracy_parity,Sigmod,True,852.0
+accuracy_parity,VLDB,True,743.0
+accuracy_parity,VLDB J.,True,259.0
+accuracy_parity,VLDB,True,630.0
+accuracy_parity,TODS,True,136.0
+accuracy_parity,TODS,True,149.0

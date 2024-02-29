@@ -1,0 +1,13 @@
+measure,sens_attr,is_fair,counts
+positive_predictive_value_parity,cn,True,969439.0
+positive_predictive_value_parity,de,True,370717.0
+negative_predictive_value_parity,cn,True,969439.0
+negative_predictive_value_parity,de,True,370717.0
+false_positive_rate_parity,cn,True,969439.0
+false_positive_rate_parity,de,True,370717.0
+true_positive_rate_parity,cn,True,969439.0
+true_positive_rate_parity,de,True,370717.0
+statistical_parity,cn,True,969439.0
+statistical_parity,de,True,370717.0
+accuracy_parity,cn,True,969439.0
+accuracy_parity,de,True,370717.0

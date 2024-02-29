@@ -1,0 +1,871 @@
+measure,sens_attr,is_fair,counts
+accuracy_parity,Dirty South | Rap & HH,True,5.0
+accuracy_parity,HH/Rap | Rap & HH,True,24.0
+accuracy_parity,Music | Rap & HH,True,26.0
+accuracy_parity,Classical | Soundtracks,True,2.0
+accuracy_parity,Music | Soundtracks,True,2.0
+accuracy_parity,Original Score | Soundtracks,True,2.0
+accuracy_parity,Soundtrack | Soundtracks,True,2.0
+accuracy_parity,Dance | Dance & Elec.,True,37.0
+accuracy_parity,Music | Dance & Elec.,True,39.0
+accuracy_parity,Elec. | Dance & Elec.,True,33.0
+accuracy_parity,French Pop | Dance & Elec.,True,13.0
+accuracy_parity,House | Dance & Elec.,True,20.0
+accuracy_parity,Rock | Dance & Elec.,True,22.0
+accuracy_parity,Rap | Rap & HH,True,18.0
+accuracy_parity,Adult Alternative | Alternative Rock,True,5.0
+accuracy_parity,Alternative | Alternative Rock,True,5.0
+accuracy_parity,Music | Alternative Rock,True,5.0
+accuracy_parity,Rock | Alternative Rock,True,5.0
+accuracy_parity,Dance | Pop,True,13.0
+accuracy_parity,Music | Pop,True,20.0
+accuracy_parity,Rock | Pop,True,14.0
+accuracy_parity,Cont. R&B | Pop,True,7.0
+accuracy_parity,Pop | Pop,True,16.0
+accuracy_parity,R&B / Soul | Pop,True,11.0
+accuracy_parity,Cont. Country | Country,True,11.0
+accuracy_parity,Country | Country,True,11.0
+accuracy_parity,Honky Tonk | Country,True,9.0
+accuracy_parity,Music | Country,True,11.0
+accuracy_parity,Urban Cowboy | Country,False,4.0
+accuracy_parity,Elec. | Pop,True,4.0
+accuracy_parity,Hip-Hop / Rap | Pop,True,3.0
+accuracy_parity,Pop/Rock | Pop,True,8.0
+accuracy_parity,Alternative | Rock,True,4.0
+accuracy_parity,Hard Rock | Rock,True,4.0
+accuracy_parity,Music | Rock,True,8.0
+accuracy_parity,Rock | Rock,True,8.0
+accuracy_parity,Pop | Country,False,4.0
+accuracy_parity,Teen Pop | Country,True,1.0
+accuracy_parity,Adult Alternative | Dance & Elec.,True,2.0
+accuracy_parity,Adult Alternative | House,True,1.0
+accuracy_parity,Dance | House,True,3.0
+accuracy_parity,Elec. | House,True,2.0
+accuracy_parity,Elec.a | Dance & Elec.,True,4.0
+accuracy_parity,Elec.a | House,True,2.0
+accuracy_parity,House | House,True,1.0
+accuracy_parity,Music | House,True,3.0
+accuracy_parity,Pop | Dance & Elec.,True,3.0
+accuracy_parity,Pop | House,True,1.0
+accuracy_parity,Rock | House,True,1.0
+accuracy_parity,Singer/Songwriter | Rock,True,3.0
+accuracy_parity,HH/Rap | Pop,True,3.0
+accuracy_parity,East Coast Rap | Rap & HH,True,6.0
+accuracy_parity,Hardcore Rap | Rap & HH,True,7.0
+accuracy_parity,Dance & Elec. | Elec.,True,33.0
+accuracy_parity,Dance & Elec. | Music,True,39.0
+accuracy_parity,Elec.a | Elec.,True,4.0
+accuracy_parity,Elec.a | Music,True,5.0
+accuracy_parity,Dirty South | Pop Rap,True,2.0
+accuracy_parity,Dirty South | Southern Rap,True,2.0
+accuracy_parity,HH/Rap | Pop Rap,True,2.0
+accuracy_parity,HH/Rap | Southern Rap,True,2.0
+accuracy_parity,Music | Pop Rap,True,2.0
+accuracy_parity,Music | Southern Rap,True,2.0
+accuracy_parity,Pop | Pop Rap,True,2.0
+accuracy_parity,Pop | Rap & HH,True,3.0
+accuracy_parity,Pop | Southern Rap,True,2.0
+accuracy_parity,Adult Alternative | Pop,False,2.0
+accuracy_parity,Hip-Hop | Pop,True,1.0
+accuracy_parity,Jazz | Pop,True,1.0
+accuracy_parity,Soul | Pop,True,1.0
+accuracy_parity,Gangsta & Hardcore | Gangsta Rap,True,1.0
+accuracy_parity,Gangsta & Hardcore | Hardcore Rap,True,1.0
+accuracy_parity,Gangsta & Hardcore | Hip-Hop / Rap,True,1.0
+accuracy_parity,Gangsta & Hardcore | Music,True,1.0
+accuracy_parity,Gangsta & Hardcore | Rap,True,1.0
+accuracy_parity,Gangsta & Hardcore | Soundtrack,True,1.0
+accuracy_parity,Gangsta & Hardcore | West Coast Rap,True,1.0
+accuracy_parity,Rap & HH | Gangsta Rap,True,2.0
+accuracy_parity,Rap & HH | Hardcore Rap,True,7.0
+accuracy_parity,Rap & HH | Hip-Hop / Rap,True,2.0
+accuracy_parity,Rap & HH | Music,True,26.0
+accuracy_parity,Rap & HH | Rap,True,18.0
+accuracy_parity,Rap & HH | Soundtrack,True,1.0
+accuracy_parity,Rap & HH | West Coast Rap,True,2.0
+accuracy_parity,Dance | Rap & HH,True,2.0
+accuracy_parity,Elec. | Rap & HH,True,2.0
+accuracy_parity,HH/Rap | Dance & Elec.,True,1.0
+accuracy_parity,HH/Rap | House,True,1.0
+accuracy_parity,Rap | Dance & Elec.,True,2.0
+accuracy_parity,Rap | House,True,1.0
+accuracy_parity,World | Dance & Elec.,True,1.0
+accuracy_parity,World | House,True,1.0
+accuracy_parity,World | Rap & HH,True,1.0
+accuracy_parity,Metal | Rock,True,2.0
+accuracy_parity,Alternative Rap | Dance & Elec.,True,1.0
+accuracy_parity,Hip-Hop | Dance & Elec.,True,1.0
+accuracy_parity,Hip-Hop / Rap | Dance & Elec.,True,2.0
+accuracy_parity,R&B / Soul | Dance & Elec.,True,3.0
+accuracy_parity,Soul | Dance & Elec.,True,1.0
+accuracy_parity,Cont. R&B | Rap & HH,True,1.0
+accuracy_parity,R&B / Soul | Rap & HH,True,1.0
+accuracy_parity,Dance | Dubstep,True,1.0
+accuracy_parity,Dance | Elec.a,True,3.0
+accuracy_parity,Music | Dubstep,True,1.0
+accuracy_parity,Music | Elec.a,True,5.0
+accuracy_parity,Traditional Country | Country,True,2.0
+accuracy_parity,Classical | Dance & Elec.,True,1.0
+accuracy_parity,Classical | Elec.a,True,1.0
+accuracy_parity,Classical Crossover | Dance & Elec.,True,1.0
+accuracy_parity,Classical Crossover | Elec.a,True,1.0
+accuracy_parity,Elec. | Elec.a,True,4.0
+accuracy_parity,Elec.a | Elec.a,True,2.0
+accuracy_parity,House | Elec.a,True,2.0
+accuracy_parity,Rock | Elec.a,True,2.0
+accuracy_parity,Pop/Rock | Country,False,2.0
+accuracy_parity,Rock | Country,False,2.0
+accuracy_parity,Teen Pop | Pop,True,3.0
+accuracy_parity,Dirty South | Dance & Elec.,True,1.0
+accuracy_parity,Cont. Singer/Songwriter | Pop,False,1.0
+accuracy_parity,Singer/Songwriter | Pop,False,1.0
+accuracy_parity,Cont. Country | Pop,True,1.0
+accuracy_parity,Country | Pop,False,4.0
+accuracy_parity,Honky Tonk | Pop,True,1.0
+accuracy_parity,Urban Cowboy | Pop,True,1.0
+accuracy_parity,Dance | R&B,True,1.0
+accuracy_parity,Elec. | R&B,True,1.0
+accuracy_parity,Music | R&B,True,1.0
+accuracy_parity,Pop | R&B,True,1.0
+accuracy_parity,Pop/Rock | Dance & Elec.,True,1.0
+accuracy_parity,Pop/Rock | R&B,True,1.0
+accuracy_parity,R&B / Soul | R&B,True,1.0
+accuracy_parity,Rock | Rap & HH,True,2.0
+accuracy_parity,Folk | Music,True,1.0
+accuracy_parity,Folk | Rock,True,1.0
+accuracy_parity,Folk | Singer/Songwriter,True,1.0
+accuracy_parity,Rock | Music,True,8.0
+accuracy_parity,Rock | Singer/Songwriter,True,3.0
+accuracy_parity,Hip-Hop / Rap | Rap & HH,True,2.0
+accuracy_parity,Gangsta Rap | Rap & HH,True,2.0
+accuracy_parity,Gangsta Rap | West Coast,True,1.0
+accuracy_parity,HH/Rap | West Coast,True,1.0
+accuracy_parity,Music | West Coast,True,1.0
+accuracy_parity,Rock | West Coast,True,1.0
+accuracy_parity,West Coast Rap | Rap & HH,True,2.0
+accuracy_parity,West Coast Rap | West Coast,True,1.0
+statistical_parity,Dirty South | Rap & HH,False,5.0
+statistical_parity,HH/Rap | Rap & HH,True,24.0
+statistical_parity,Music | Rap & HH,True,26.0
+statistical_parity,Classical | Soundtracks,True,2.0
+statistical_parity,Music | Soundtracks,True,2.0
+statistical_parity,Original Score | Soundtracks,True,2.0
+statistical_parity,Soundtrack | Soundtracks,True,2.0
+statistical_parity,Dance | Dance & Elec.,True,37.0
+statistical_parity,Music | Dance & Elec.,True,39.0
+statistical_parity,Elec. | Dance & Elec.,True,33.0
+statistical_parity,French Pop | Dance & Elec.,False,13.0
+statistical_parity,House | Dance & Elec.,False,20.0
+statistical_parity,Rock | Dance & Elec.,False,22.0
+statistical_parity,Rap | Rap & HH,True,18.0
+statistical_parity,Adult Alternative | Alternative Rock,True,5.0
+statistical_parity,Alternative | Alternative Rock,True,5.0
+statistical_parity,Music | Alternative Rock,True,5.0
+statistical_parity,Rock | Alternative Rock,True,5.0
+statistical_parity,Dance | Pop,True,13.0
+statistical_parity,Music | Pop,True,20.0
+statistical_parity,Rock | Pop,True,14.0
+statistical_parity,Cont. R&B | Pop,True,7.0
+statistical_parity,Pop | Pop,True,16.0
+statistical_parity,R&B / Soul | Pop,True,11.0
+statistical_parity,Cont. Country | Country,True,11.0
+statistical_parity,Country | Country,True,11.0
+statistical_parity,Honky Tonk | Country,True,9.0
+statistical_parity,Music | Country,True,11.0
+statistical_parity,Urban Cowboy | Country,True,4.0
+statistical_parity,Elec. | Pop,True,4.0
+statistical_parity,Hip-Hop / Rap | Pop,True,3.0
+statistical_parity,Pop/Rock | Pop,True,8.0
+statistical_parity,Alternative | Rock,True,4.0
+statistical_parity,Hard Rock | Rock,True,4.0
+statistical_parity,Music | Rock,True,8.0
+statistical_parity,Rock | Rock,True,8.0
+statistical_parity,Pop | Country,True,4.0
+statistical_parity,Teen Pop | Country,False,1.0
+statistical_parity,Adult Alternative | Dance & Elec.,False,2.0
+statistical_parity,Adult Alternative | House,False,1.0
+statistical_parity,Dance | House,True,3.0
+statistical_parity,Elec. | House,True,2.0
+statistical_parity,Elec.a | Dance & Elec.,False,4.0
+statistical_parity,Elec.a | House,False,2.0
+statistical_parity,House | House,False,1.0
+statistical_parity,Music | House,True,3.0
+statistical_parity,Pop | Dance & Elec.,True,3.0
+statistical_parity,Pop | House,False,1.0
+statistical_parity,Rock | House,False,1.0
+statistical_parity,Singer/Songwriter | Rock,False,3.0
+statistical_parity,HH/Rap | Pop,False,3.0
+statistical_parity,East Coast Rap | Rap & HH,True,6.0
+statistical_parity,Hardcore Rap | Rap & HH,True,7.0
+statistical_parity,Dance & Elec. | Elec.,True,33.0
+statistical_parity,Dance & Elec. | Music,True,39.0
+statistical_parity,Elec.a | Elec.,True,4.0
+statistical_parity,Elec.a | Music,True,5.0
+statistical_parity,Dirty South | Pop Rap,False,2.0
+statistical_parity,Dirty South | Southern Rap,False,2.0
+statistical_parity,HH/Rap | Pop Rap,False,2.0
+statistical_parity,HH/Rap | Southern Rap,False,2.0
+statistical_parity,Music | Pop Rap,False,2.0
+statistical_parity,Music | Southern Rap,False,2.0
+statistical_parity,Pop | Pop Rap,False,2.0
+statistical_parity,Pop | Rap & HH,False,3.0
+statistical_parity,Pop | Southern Rap,False,2.0
+statistical_parity,Adult Alternative | Pop,True,2.0
+statistical_parity,Hip-Hop | Pop,True,1.0
+statistical_parity,Jazz | Pop,True,1.0
+statistical_parity,Soul | Pop,True,1.0
+statistical_parity,Gangsta & Hardcore | Gangsta Rap,False,1.0
+statistical_parity,Gangsta & Hardcore | Hardcore Rap,False,1.0
+statistical_parity,Gangsta & Hardcore | Hip-Hop / Rap,False,1.0
+statistical_parity,Gangsta & Hardcore | Music,False,1.0
+statistical_parity,Gangsta & Hardcore | Rap,False,1.0
+statistical_parity,Gangsta & Hardcore | Soundtrack,False,1.0
+statistical_parity,Gangsta & Hardcore | West Coast Rap,False,1.0
+statistical_parity,Rap & HH | Gangsta Rap,False,2.0
+statistical_parity,Rap & HH | Hardcore Rap,True,7.0
+statistical_parity,Rap & HH | Hip-Hop / Rap,False,2.0
+statistical_parity,Rap & HH | Music,True,26.0
+statistical_parity,Rap & HH | Rap,True,18.0
+statistical_parity,Rap & HH | Soundtrack,False,1.0
+statistical_parity,Rap & HH | West Coast Rap,False,2.0
+statistical_parity,Dance | Rap & HH,True,2.0
+statistical_parity,Elec. | Rap & HH,True,2.0
+statistical_parity,HH/Rap | Dance & Elec.,True,1.0
+statistical_parity,HH/Rap | House,True,1.0
+statistical_parity,Rap | Dance & Elec.,True,2.0
+statistical_parity,Rap | House,True,1.0
+statistical_parity,World | Dance & Elec.,True,1.0
+statistical_parity,World | House,True,1.0
+statistical_parity,World | Rap & HH,True,1.0
+statistical_parity,Metal | Rock,False,2.0
+statistical_parity,Alternative Rap | Dance & Elec.,True,1.0
+statistical_parity,Hip-Hop | Dance & Elec.,True,1.0
+statistical_parity,Hip-Hop / Rap | Dance & Elec.,True,2.0
+statistical_parity,R&B / Soul | Dance & Elec.,True,3.0
+statistical_parity,Soul | Dance & Elec.,True,1.0
+statistical_parity,Cont. R&B | Rap & HH,True,1.0
+statistical_parity,R&B / Soul | Rap & HH,True,1.0
+statistical_parity,Dance | Dubstep,False,1.0
+statistical_parity,Dance | Elec.a,False,3.0
+statistical_parity,Music | Dubstep,False,1.0
+statistical_parity,Music | Elec.a,True,5.0
+statistical_parity,Traditional Country | Country,True,2.0
+statistical_parity,Classical | Dance & Elec.,False,1.0
+statistical_parity,Classical | Elec.a,False,1.0
+statistical_parity,Classical Crossover | Dance & Elec.,False,1.0
+statistical_parity,Classical Crossover | Elec.a,False,1.0
+statistical_parity,Elec. | Elec.a,True,4.0
+statistical_parity,Elec.a | Elec.a,False,2.0
+statistical_parity,House | Elec.a,False,2.0
+statistical_parity,Rock | Elec.a,False,2.0
+statistical_parity,Pop/Rock | Country,True,2.0
+statistical_parity,Rock | Country,True,2.0
+statistical_parity,Teen Pop | Pop,True,3.0
+statistical_parity,Dirty South | Dance & Elec.,False,1.0
+statistical_parity,Cont. Singer/Songwriter | Pop,False,1.0
+statistical_parity,Singer/Songwriter | Pop,False,1.0
+statistical_parity,Cont. Country | Pop,False,1.0
+statistical_parity,Country | Pop,True,4.0
+statistical_parity,Honky Tonk | Pop,False,1.0
+statistical_parity,Urban Cowboy | Pop,False,1.0
+statistical_parity,Dance | R&B,True,1.0
+statistical_parity,Elec. | R&B,True,1.0
+statistical_parity,Music | R&B,True,1.0
+statistical_parity,Pop | R&B,True,1.0
+statistical_parity,Pop/Rock | Dance & Elec.,True,1.0
+statistical_parity,Pop/Rock | R&B,True,1.0
+statistical_parity,R&B / Soul | R&B,True,1.0
+statistical_parity,Rock | Rap & HH,False,2.0
+statistical_parity,Folk | Music,False,1.0
+statistical_parity,Folk | Rock,False,1.0
+statistical_parity,Folk | Singer/Songwriter,False,1.0
+statistical_parity,Rock | Music,True,8.0
+statistical_parity,Rock | Singer/Songwriter,False,3.0
+statistical_parity,Hip-Hop / Rap | Rap & HH,False,2.0
+statistical_parity,Gangsta Rap | Rap & HH,False,2.0
+statistical_parity,Gangsta Rap | West Coast,False,1.0
+statistical_parity,HH/Rap | West Coast,False,1.0
+statistical_parity,Music | West Coast,False,1.0
+statistical_parity,Rock | West Coast,False,1.0
+statistical_parity,West Coast Rap | Rap & HH,False,2.0
+statistical_parity,West Coast Rap | West Coast,False,1.0
+true_positive_rate_parity,Dirty South | Rap & HH,True,5.0
+true_positive_rate_parity,HH/Rap | Rap & HH,True,24.0
+true_positive_rate_parity,Music | Rap & HH,True,26.0
+true_positive_rate_parity,Classical | Soundtracks,True,2.0
+true_positive_rate_parity,Music | Soundtracks,True,2.0
+true_positive_rate_parity,Original Score | Soundtracks,True,2.0
+true_positive_rate_parity,Soundtrack | Soundtracks,True,2.0
+true_positive_rate_parity,Dance | Dance & Elec.,True,37.0
+true_positive_rate_parity,Music | Dance & Elec.,True,39.0
+true_positive_rate_parity,Elec. | Dance & Elec.,True,33.0
+true_positive_rate_parity,French Pop | Dance & Elec.,True,13.0
+true_positive_rate_parity,House | Dance & Elec.,True,20.0
+true_positive_rate_parity,Rock | Dance & Elec.,True,22.0
+true_positive_rate_parity,Rap | Rap & HH,True,18.0
+true_positive_rate_parity,Adult Alternative | Alternative Rock,True,5.0
+true_positive_rate_parity,Alternative | Alternative Rock,True,5.0
+true_positive_rate_parity,Music | Alternative Rock,True,5.0
+true_positive_rate_parity,Rock | Alternative Rock,True,5.0
+true_positive_rate_parity,Dance | Pop,True,13.0
+true_positive_rate_parity,Music | Pop,True,20.0
+true_positive_rate_parity,Rock | Pop,True,14.0
+true_positive_rate_parity,Cont. R&B | Pop,True,7.0
+true_positive_rate_parity,Pop | Pop,True,16.0
+true_positive_rate_parity,R&B / Soul | Pop,True,11.0
+true_positive_rate_parity,Cont. Country | Country,True,11.0
+true_positive_rate_parity,Country | Country,True,11.0
+true_positive_rate_parity,Honky Tonk | Country,True,9.0
+true_positive_rate_parity,Music | Country,True,11.0
+true_positive_rate_parity,Urban Cowboy | Country,False,4.0
+true_positive_rate_parity,Elec. | Pop,True,4.0
+true_positive_rate_parity,Hip-Hop / Rap | Pop,True,3.0
+true_positive_rate_parity,Pop/Rock | Pop,True,8.0
+true_positive_rate_parity,Alternative | Rock,True,4.0
+true_positive_rate_parity,Hard Rock | Rock,True,4.0
+true_positive_rate_parity,Music | Rock,True,8.0
+true_positive_rate_parity,Rock | Rock,True,8.0
+true_positive_rate_parity,Pop | Country,True,4.0
+true_positive_rate_parity,Teen Pop | Country,True,1.0
+true_positive_rate_parity,Adult Alternative | Dance & Elec.,True,2.0
+true_positive_rate_parity,Adult Alternative | House,True,1.0
+true_positive_rate_parity,Dance | House,True,3.0
+true_positive_rate_parity,Elec. | House,True,2.0
+true_positive_rate_parity,Elec.a | Dance & Elec.,True,4.0
+true_positive_rate_parity,Elec.a | House,True,2.0
+true_positive_rate_parity,House | House,True,1.0
+true_positive_rate_parity,Music | House,True,3.0
+true_positive_rate_parity,Pop | Dance & Elec.,True,3.0
+true_positive_rate_parity,Pop | House,True,1.0
+true_positive_rate_parity,Rock | House,True,1.0
+true_positive_rate_parity,Singer/Songwriter | Rock,True,3.0
+true_positive_rate_parity,HH/Rap | Pop,True,3.0
+true_positive_rate_parity,East Coast Rap | Rap & HH,True,6.0
+true_positive_rate_parity,Hardcore Rap | Rap & HH,True,7.0
+true_positive_rate_parity,Dance & Elec. | Elec.,True,33.0
+true_positive_rate_parity,Dance & Elec. | Music,True,39.0
+true_positive_rate_parity,Elec.a | Elec.,True,4.0
+true_positive_rate_parity,Elec.a | Music,True,5.0
+true_positive_rate_parity,Dirty South | Pop Rap,True,2.0
+true_positive_rate_parity,Dirty South | Southern Rap,True,2.0
+true_positive_rate_parity,HH/Rap | Pop Rap,True,2.0
+true_positive_rate_parity,HH/Rap | Southern Rap,True,2.0
+true_positive_rate_parity,Music | Pop Rap,True,2.0
+true_positive_rate_parity,Music | Southern Rap,True,2.0
+true_positive_rate_parity,Pop | Pop Rap,True,2.0
+true_positive_rate_parity,Pop | Rap & HH,True,3.0
+true_positive_rate_parity,Pop | Southern Rap,True,2.0
+true_positive_rate_parity,Adult Alternative | Pop,True,2.0
+true_positive_rate_parity,Hip-Hop | Pop,True,1.0
+true_positive_rate_parity,Jazz | Pop,True,1.0
+true_positive_rate_parity,Soul | Pop,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | Gangsta Rap,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | Hardcore Rap,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | Hip-Hop / Rap,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | Music,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | Rap,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | Soundtrack,True,1.0
+true_positive_rate_parity,Gangsta & Hardcore | West Coast Rap,True,1.0
+true_positive_rate_parity,Rap & HH | Gangsta Rap,True,2.0
+true_positive_rate_parity,Rap & HH | Hardcore Rap,True,7.0
+true_positive_rate_parity,Rap & HH | Hip-Hop / Rap,True,2.0
+true_positive_rate_parity,Rap & HH | Music,True,26.0
+true_positive_rate_parity,Rap & HH | Rap,True,18.0
+true_positive_rate_parity,Rap & HH | Soundtrack,True,1.0
+true_positive_rate_parity,Rap & HH | West Coast Rap,True,2.0
+true_positive_rate_parity,Dance | Rap & HH,True,2.0
+true_positive_rate_parity,Elec. | Rap & HH,True,2.0
+true_positive_rate_parity,HH/Rap | Dance & Elec.,True,1.0
+true_positive_rate_parity,HH/Rap | House,True,1.0
+true_positive_rate_parity,Rap | Dance & Elec.,True,2.0
+true_positive_rate_parity,Rap | House,True,1.0
+true_positive_rate_parity,World | Dance & Elec.,True,1.0
+true_positive_rate_parity,World | House,True,1.0
+true_positive_rate_parity,World | Rap & HH,True,1.0
+true_positive_rate_parity,Metal | Rock,True,2.0
+true_positive_rate_parity,Alternative Rap | Dance & Elec.,True,1.0
+true_positive_rate_parity,Hip-Hop | Dance & Elec.,True,1.0
+true_positive_rate_parity,Hip-Hop / Rap | Dance & Elec.,True,2.0
+true_positive_rate_parity,R&B / Soul | Dance & Elec.,True,3.0
+true_positive_rate_parity,Soul | Dance & Elec.,True,1.0
+true_positive_rate_parity,Cont. R&B | Rap & HH,True,1.0
+true_positive_rate_parity,R&B / Soul | Rap & HH,True,1.0
+true_positive_rate_parity,Dance | Dubstep,True,1.0
+true_positive_rate_parity,Dance | Elec.a,True,3.0
+true_positive_rate_parity,Music | Dubstep,True,1.0
+true_positive_rate_parity,Music | Elec.a,True,5.0
+true_positive_rate_parity,Traditional Country | Country,True,2.0
+true_positive_rate_parity,Classical | Dance & Elec.,True,1.0
+true_positive_rate_parity,Classical | Elec.a,True,1.0
+true_positive_rate_parity,Classical Crossover | Dance & Elec.,True,1.0
+true_positive_rate_parity,Classical Crossover | Elec.a,True,1.0
+true_positive_rate_parity,Elec. | Elec.a,True,4.0
+true_positive_rate_parity,Elec.a | Elec.a,True,2.0
+true_positive_rate_parity,House | Elec.a,True,2.0
+true_positive_rate_parity,Rock | Elec.a,True,2.0
+true_positive_rate_parity,Pop/Rock | Country,True,2.0
+true_positive_rate_parity,Rock | Country,True,2.0
+true_positive_rate_parity,Teen Pop | Pop,True,3.0
+true_positive_rate_parity,Dirty South | Dance & Elec.,True,1.0
+true_positive_rate_parity,Cont. Singer/Songwriter | Pop,True,1.0
+true_positive_rate_parity,Singer/Songwriter | Pop,True,1.0
+true_positive_rate_parity,Cont. Country | Pop,True,1.0
+true_positive_rate_parity,Country | Pop,True,4.0
+true_positive_rate_parity,Honky Tonk | Pop,True,1.0
+true_positive_rate_parity,Urban Cowboy | Pop,True,1.0
+true_positive_rate_parity,Dance | R&B,True,1.0
+true_positive_rate_parity,Elec. | R&B,True,1.0
+true_positive_rate_parity,Music | R&B,True,1.0
+true_positive_rate_parity,Pop | R&B,True,1.0
+true_positive_rate_parity,Pop/Rock | Dance & Elec.,True,1.0
+true_positive_rate_parity,Pop/Rock | R&B,True,1.0
+true_positive_rate_parity,R&B / Soul | R&B,True,1.0
+true_positive_rate_parity,Rock | Rap & HH,True,2.0
+true_positive_rate_parity,Folk | Music,True,1.0
+true_positive_rate_parity,Folk | Rock,True,1.0
+true_positive_rate_parity,Folk | Singer/Songwriter,True,1.0
+true_positive_rate_parity,Rock | Music,True,8.0
+true_positive_rate_parity,Rock | Singer/Songwriter,True,3.0
+true_positive_rate_parity,Hip-Hop / Rap | Rap & HH,True,2.0
+true_positive_rate_parity,Gangsta Rap | Rap & HH,True,2.0
+true_positive_rate_parity,Gangsta Rap | West Coast,True,1.0
+true_positive_rate_parity,HH/Rap | West Coast,True,1.0
+true_positive_rate_parity,Music | West Coast,True,1.0
+true_positive_rate_parity,Rock | West Coast,True,1.0
+true_positive_rate_parity,West Coast Rap | Rap & HH,True,2.0
+true_positive_rate_parity,West Coast Rap | West Coast,True,1.0
+false_positive_rate_parity,Dirty South | Rap & HH,True,5.0
+false_positive_rate_parity,HH/Rap | Rap & HH,True,24.0
+false_positive_rate_parity,Music | Rap & HH,True,26.0
+false_positive_rate_parity,Classical | Soundtracks,True,2.0
+false_positive_rate_parity,Music | Soundtracks,True,2.0
+false_positive_rate_parity,Original Score | Soundtracks,True,2.0
+false_positive_rate_parity,Soundtrack | Soundtracks,True,2.0
+false_positive_rate_parity,Dance | Dance & Elec.,True,37.0
+false_positive_rate_parity,Music | Dance & Elec.,True,39.0
+false_positive_rate_parity,Elec. | Dance & Elec.,True,33.0
+false_positive_rate_parity,French Pop | Dance & Elec.,True,13.0
+false_positive_rate_parity,House | Dance & Elec.,True,20.0
+false_positive_rate_parity,Rock | Dance & Elec.,True,22.0
+false_positive_rate_parity,Rap | Rap & HH,True,18.0
+false_positive_rate_parity,Adult Alternative | Alternative Rock,True,5.0
+false_positive_rate_parity,Alternative | Alternative Rock,True,5.0
+false_positive_rate_parity,Music | Alternative Rock,True,5.0
+false_positive_rate_parity,Rock | Alternative Rock,True,5.0
+false_positive_rate_parity,Dance | Pop,True,13.0
+false_positive_rate_parity,Music | Pop,True,20.0
+false_positive_rate_parity,Rock | Pop,True,14.0
+false_positive_rate_parity,Cont. R&B | Pop,True,7.0
+false_positive_rate_parity,Pop | Pop,True,16.0
+false_positive_rate_parity,R&B / Soul | Pop,True,11.0
+false_positive_rate_parity,Cont. Country | Country,False,11.0
+false_positive_rate_parity,Country | Country,False,11.0
+false_positive_rate_parity,Honky Tonk | Country,False,9.0
+false_positive_rate_parity,Music | Country,False,11.0
+false_positive_rate_parity,Urban Cowboy | Country,True,4.0
+false_positive_rate_parity,Elec. | Pop,True,4.0
+false_positive_rate_parity,Hip-Hop / Rap | Pop,True,3.0
+false_positive_rate_parity,Pop/Rock | Pop,True,8.0
+false_positive_rate_parity,Alternative | Rock,True,4.0
+false_positive_rate_parity,Hard Rock | Rock,True,4.0
+false_positive_rate_parity,Music | Rock,True,8.0
+false_positive_rate_parity,Rock | Rock,True,8.0
+false_positive_rate_parity,Pop | Country,False,4.0
+false_positive_rate_parity,Teen Pop | Country,True,1.0
+false_positive_rate_parity,Adult Alternative | Dance & Elec.,True,2.0
+false_positive_rate_parity,Adult Alternative | House,True,1.0
+false_positive_rate_parity,Dance | House,True,3.0
+false_positive_rate_parity,Elec. | House,True,2.0
+false_positive_rate_parity,Elec.a | Dance & Elec.,True,4.0
+false_positive_rate_parity,Elec.a | House,True,2.0
+false_positive_rate_parity,House | House,True,1.0
+false_positive_rate_parity,Music | House,True,3.0
+false_positive_rate_parity,Pop | Dance & Elec.,True,3.0
+false_positive_rate_parity,Pop | House,True,1.0
+false_positive_rate_parity,Rock | House,True,1.0
+false_positive_rate_parity,Singer/Songwriter | Rock,True,3.0
+false_positive_rate_parity,HH/Rap | Pop,True,3.0
+false_positive_rate_parity,East Coast Rap | Rap & HH,True,6.0
+false_positive_rate_parity,Hardcore Rap | Rap & HH,True,7.0
+false_positive_rate_parity,Dance & Elec. | Elec.,True,33.0
+false_positive_rate_parity,Dance & Elec. | Music,True,39.0
+false_positive_rate_parity,Elec.a | Elec.,True,4.0
+false_positive_rate_parity,Elec.a | Music,True,5.0
+false_positive_rate_parity,Dirty South | Pop Rap,True,2.0
+false_positive_rate_parity,Dirty South | Southern Rap,True,2.0
+false_positive_rate_parity,HH/Rap | Pop Rap,True,2.0
+false_positive_rate_parity,HH/Rap | Southern Rap,True,2.0
+false_positive_rate_parity,Music | Pop Rap,True,2.0
+false_positive_rate_parity,Music | Southern Rap,True,2.0
+false_positive_rate_parity,Pop | Pop Rap,True,2.0
+false_positive_rate_parity,Pop | Rap & HH,True,3.0
+false_positive_rate_parity,Pop | Southern Rap,True,2.0
+false_positive_rate_parity,Adult Alternative | Pop,False,2.0
+false_positive_rate_parity,Hip-Hop | Pop,False,1.0
+false_positive_rate_parity,Jazz | Pop,False,1.0
+false_positive_rate_parity,Soul | Pop,False,1.0
+false_positive_rate_parity,Gangsta & Hardcore | Gangsta Rap,True,1.0
+false_positive_rate_parity,Gangsta & Hardcore | Hardcore Rap,True,1.0
+false_positive_rate_parity,Gangsta & Hardcore | Hip-Hop / Rap,True,1.0
+false_positive_rate_parity,Gangsta & Hardcore | Music,True,1.0
+false_positive_rate_parity,Gangsta & Hardcore | Rap,True,1.0
+false_positive_rate_parity,Gangsta & Hardcore | Soundtrack,True,1.0
+false_positive_rate_parity,Gangsta & Hardcore | West Coast Rap,True,1.0
+false_positive_rate_parity,Rap & HH | Gangsta Rap,True,2.0
+false_positive_rate_parity,Rap & HH | Hardcore Rap,True,7.0
+false_positive_rate_parity,Rap & HH | Hip-Hop / Rap,True,2.0
+false_positive_rate_parity,Rap & HH | Music,True,26.0
+false_positive_rate_parity,Rap & HH | Rap,True,18.0
+false_positive_rate_parity,Rap & HH | Soundtrack,True,1.0
+false_positive_rate_parity,Rap & HH | West Coast Rap,True,2.0
+false_positive_rate_parity,Dance | Rap & HH,False,2.0
+false_positive_rate_parity,Elec. | Rap & HH,True,2.0
+false_positive_rate_parity,HH/Rap | Dance & Elec.,False,1.0
+false_positive_rate_parity,HH/Rap | House,False,1.0
+false_positive_rate_parity,Rap | Dance & Elec.,True,2.0
+false_positive_rate_parity,Rap | House,False,1.0
+false_positive_rate_parity,World | Dance & Elec.,False,1.0
+false_positive_rate_parity,World | House,False,1.0
+false_positive_rate_parity,World | Rap & HH,False,1.0
+false_positive_rate_parity,Metal | Rock,True,2.0
+false_positive_rate_parity,Alternative Rap | Dance & Elec.,False,1.0
+false_positive_rate_parity,Hip-Hop | Dance & Elec.,False,1.0
+false_positive_rate_parity,Hip-Hop / Rap | Dance & Elec.,True,2.0
+false_positive_rate_parity,R&B / Soul | Dance & Elec.,True,3.0
+false_positive_rate_parity,Soul | Dance & Elec.,False,1.0
+false_positive_rate_parity,Cont. R&B | Rap & HH,False,1.0
+false_positive_rate_parity,R&B / Soul | Rap & HH,False,1.0
+false_positive_rate_parity,Dance | Dubstep,True,1.0
+false_positive_rate_parity,Dance | Elec.a,True,3.0
+false_positive_rate_parity,Music | Dubstep,True,1.0
+false_positive_rate_parity,Music | Elec.a,True,5.0
+false_positive_rate_parity,Traditional Country | Country,False,2.0
+false_positive_rate_parity,Classical | Dance & Elec.,True,1.0
+false_positive_rate_parity,Classical | Elec.a,True,1.0
+false_positive_rate_parity,Classical Crossover | Dance & Elec.,True,1.0
+false_positive_rate_parity,Classical Crossover | Elec.a,True,1.0
+false_positive_rate_parity,Elec. | Elec.a,True,4.0
+false_positive_rate_parity,Elec.a | Elec.a,True,2.0
+false_positive_rate_parity,House | Elec.a,True,2.0
+false_positive_rate_parity,Rock | Elec.a,True,2.0
+false_positive_rate_parity,Pop/Rock | Country,False,2.0
+false_positive_rate_parity,Rock | Country,False,2.0
+false_positive_rate_parity,Teen Pop | Pop,False,3.0
+false_positive_rate_parity,Dirty South | Dance & Elec.,True,1.0
+false_positive_rate_parity,Cont. Singer/Songwriter | Pop,False,1.0
+false_positive_rate_parity,Singer/Songwriter | Pop,False,1.0
+false_positive_rate_parity,Cont. Country | Pop,True,1.0
+false_positive_rate_parity,Country | Pop,False,4.0
+false_positive_rate_parity,Honky Tonk | Pop,True,1.0
+false_positive_rate_parity,Urban Cowboy | Pop,True,1.0
+false_positive_rate_parity,Dance | R&B,False,1.0
+false_positive_rate_parity,Elec. | R&B,False,1.0
+false_positive_rate_parity,Music | R&B,False,1.0
+false_positive_rate_parity,Pop | R&B,False,1.0
+false_positive_rate_parity,Pop/Rock | Dance & Elec.,False,1.0
+false_positive_rate_parity,Pop/Rock | R&B,False,1.0
+false_positive_rate_parity,R&B / Soul | R&B,False,1.0
+false_positive_rate_parity,Rock | Rap & HH,True,2.0
+false_positive_rate_parity,Folk | Music,True,1.0
+false_positive_rate_parity,Folk | Rock,True,1.0
+false_positive_rate_parity,Folk | Singer/Songwriter,True,1.0
+false_positive_rate_parity,Rock | Music,True,8.0
+false_positive_rate_parity,Rock | Singer/Songwriter,True,3.0
+false_positive_rate_parity,Hip-Hop / Rap | Rap & HH,True,2.0
+false_positive_rate_parity,Gangsta Rap | Rap & HH,True,2.0
+false_positive_rate_parity,Gangsta Rap | West Coast,True,1.0
+false_positive_rate_parity,HH/Rap | West Coast,True,1.0
+false_positive_rate_parity,Music | West Coast,True,1.0
+false_positive_rate_parity,Rock | West Coast,True,1.0
+false_positive_rate_parity,West Coast Rap | Rap & HH,True,2.0
+false_positive_rate_parity,West Coast Rap | West Coast,True,1.0
+negative_predictive_value_parity,Dirty South | Rap & HH,True,5.0
+negative_predictive_value_parity,HH/Rap | Rap & HH,True,24.0
+negative_predictive_value_parity,Music | Rap & HH,True,26.0
+negative_predictive_value_parity,Classical | Soundtracks,True,2.0
+negative_predictive_value_parity,Music | Soundtracks,True,2.0
+negative_predictive_value_parity,Original Score | Soundtracks,True,2.0
+negative_predictive_value_parity,Soundtrack | Soundtracks,True,2.0
+negative_predictive_value_parity,Dance | Dance & Elec.,True,37.0
+negative_predictive_value_parity,Music | Dance & Elec.,True,39.0
+negative_predictive_value_parity,Elec. | Dance & Elec.,True,33.0
+negative_predictive_value_parity,French Pop | Dance & Elec.,True,13.0
+negative_predictive_value_parity,House | Dance & Elec.,True,20.0
+negative_predictive_value_parity,Rock | Dance & Elec.,True,22.0
+negative_predictive_value_parity,Rap | Rap & HH,True,18.0
+negative_predictive_value_parity,Adult Alternative | Alternative Rock,True,5.0
+negative_predictive_value_parity,Alternative | Alternative Rock,True,5.0
+negative_predictive_value_parity,Music | Alternative Rock,True,5.0
+negative_predictive_value_parity,Rock | Alternative Rock,True,5.0
+negative_predictive_value_parity,Dance | Pop,True,13.0
+negative_predictive_value_parity,Music | Pop,True,20.0
+negative_predictive_value_parity,Rock | Pop,True,14.0
+negative_predictive_value_parity,Cont. R&B | Pop,True,7.0
+negative_predictive_value_parity,Pop | Pop,True,16.0
+negative_predictive_value_parity,R&B / Soul | Pop,True,11.0
+negative_predictive_value_parity,Cont. Country | Country,False,11.0
+negative_predictive_value_parity,Country | Country,False,11.0
+negative_predictive_value_parity,Honky Tonk | Country,False,9.0
+negative_predictive_value_parity,Music | Country,False,11.0
+negative_predictive_value_parity,Urban Cowboy | Country,False,4.0
+negative_predictive_value_parity,Elec. | Pop,True,4.0
+negative_predictive_value_parity,Hip-Hop / Rap | Pop,True,3.0
+negative_predictive_value_parity,Pop/Rock | Pop,True,8.0
+negative_predictive_value_parity,Alternative | Rock,True,4.0
+negative_predictive_value_parity,Hard Rock | Rock,True,4.0
+negative_predictive_value_parity,Music | Rock,True,8.0
+negative_predictive_value_parity,Rock | Rock,True,8.0
+negative_predictive_value_parity,Pop | Country,True,4.0
+negative_predictive_value_parity,Teen Pop | Country,True,1.0
+negative_predictive_value_parity,Adult Alternative | Dance & Elec.,True,2.0
+negative_predictive_value_parity,Adult Alternative | House,True,1.0
+negative_predictive_value_parity,Dance | House,True,3.0
+negative_predictive_value_parity,Elec. | House,True,2.0
+negative_predictive_value_parity,Elec.a | Dance & Elec.,True,4.0
+negative_predictive_value_parity,Elec.a | House,True,2.0
+negative_predictive_value_parity,House | House,True,1.0
+negative_predictive_value_parity,Music | House,True,3.0
+negative_predictive_value_parity,Pop | Dance & Elec.,True,3.0
+negative_predictive_value_parity,Pop | House,True,1.0
+negative_predictive_value_parity,Rock | House,True,1.0
+negative_predictive_value_parity,Singer/Songwriter | Rock,True,3.0
+negative_predictive_value_parity,HH/Rap | Pop,True,3.0
+negative_predictive_value_parity,East Coast Rap | Rap & HH,True,6.0
+negative_predictive_value_parity,Hardcore Rap | Rap & HH,True,7.0
+negative_predictive_value_parity,Dance & Elec. | Elec.,True,33.0
+negative_predictive_value_parity,Dance & Elec. | Music,True,39.0
+negative_predictive_value_parity,Elec.a | Elec.,True,4.0
+negative_predictive_value_parity,Elec.a | Music,True,5.0
+negative_predictive_value_parity,Dirty South | Pop Rap,True,2.0
+negative_predictive_value_parity,Dirty South | Southern Rap,True,2.0
+negative_predictive_value_parity,HH/Rap | Pop Rap,True,2.0
+negative_predictive_value_parity,HH/Rap | Southern Rap,True,2.0
+negative_predictive_value_parity,Music | Pop Rap,True,2.0
+negative_predictive_value_parity,Music | Southern Rap,True,2.0
+negative_predictive_value_parity,Pop | Pop Rap,True,2.0
+negative_predictive_value_parity,Pop | Rap & HH,True,3.0
+negative_predictive_value_parity,Pop | Southern Rap,True,2.0
+negative_predictive_value_parity,Adult Alternative | Pop,True,2.0
+negative_predictive_value_parity,Hip-Hop | Pop,True,1.0
+negative_predictive_value_parity,Jazz | Pop,True,1.0
+negative_predictive_value_parity,Soul | Pop,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | Gangsta Rap,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | Hardcore Rap,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | Hip-Hop / Rap,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | Music,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | Rap,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | Soundtrack,True,1.0
+negative_predictive_value_parity,Gangsta & Hardcore | West Coast Rap,True,1.0
+negative_predictive_value_parity,Rap & HH | Gangsta Rap,True,2.0
+negative_predictive_value_parity,Rap & HH | Hardcore Rap,True,7.0
+negative_predictive_value_parity,Rap & HH | Hip-Hop / Rap,True,2.0
+negative_predictive_value_parity,Rap & HH | Music,True,26.0
+negative_predictive_value_parity,Rap & HH | Rap,True,18.0
+negative_predictive_value_parity,Rap & HH | Soundtrack,True,1.0
+negative_predictive_value_parity,Rap & HH | West Coast Rap,True,2.0
+negative_predictive_value_parity,Dance | Rap & HH,True,2.0
+negative_predictive_value_parity,Elec. | Rap & HH,True,2.0
+negative_predictive_value_parity,HH/Rap | Dance & Elec.,True,1.0
+negative_predictive_value_parity,HH/Rap | House,True,1.0
+negative_predictive_value_parity,Rap | Dance & Elec.,True,2.0
+negative_predictive_value_parity,Rap | House,True,1.0
+negative_predictive_value_parity,World | Dance & Elec.,True,1.0
+negative_predictive_value_parity,World | House,True,1.0
+negative_predictive_value_parity,World | Rap & HH,True,1.0
+negative_predictive_value_parity,Metal | Rock,True,2.0
+negative_predictive_value_parity,Alternative Rap | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Hip-Hop | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Hip-Hop / Rap | Dance & Elec.,True,2.0
+negative_predictive_value_parity,R&B / Soul | Dance & Elec.,True,3.0
+negative_predictive_value_parity,Soul | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Cont. R&B | Rap & HH,True,1.0
+negative_predictive_value_parity,R&B / Soul | Rap & HH,True,1.0
+negative_predictive_value_parity,Dance | Dubstep,True,1.0
+negative_predictive_value_parity,Dance | Elec.a,True,3.0
+negative_predictive_value_parity,Music | Dubstep,True,1.0
+negative_predictive_value_parity,Music | Elec.a,True,5.0
+negative_predictive_value_parity,Traditional Country | Country,True,2.0
+negative_predictive_value_parity,Classical | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Classical | Elec.a,True,1.0
+negative_predictive_value_parity,Classical Crossover | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Classical Crossover | Elec.a,True,1.0
+negative_predictive_value_parity,Elec. | Elec.a,True,4.0
+negative_predictive_value_parity,Elec.a | Elec.a,True,2.0
+negative_predictive_value_parity,House | Elec.a,True,2.0
+negative_predictive_value_parity,Rock | Elec.a,True,2.0
+negative_predictive_value_parity,Pop/Rock | Country,True,2.0
+negative_predictive_value_parity,Rock | Country,True,2.0
+negative_predictive_value_parity,Teen Pop | Pop,True,3.0
+negative_predictive_value_parity,Dirty South | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Cont. Singer/Songwriter | Pop,True,1.0
+negative_predictive_value_parity,Singer/Songwriter | Pop,True,1.0
+negative_predictive_value_parity,Cont. Country | Pop,True,1.0
+negative_predictive_value_parity,Country | Pop,True,4.0
+negative_predictive_value_parity,Honky Tonk | Pop,True,1.0
+negative_predictive_value_parity,Urban Cowboy | Pop,True,1.0
+negative_predictive_value_parity,Dance | R&B,True,1.0
+negative_predictive_value_parity,Elec. | R&B,True,1.0
+negative_predictive_value_parity,Music | R&B,True,1.0
+negative_predictive_value_parity,Pop | R&B,True,1.0
+negative_predictive_value_parity,Pop/Rock | Dance & Elec.,True,1.0
+negative_predictive_value_parity,Pop/Rock | R&B,True,1.0
+negative_predictive_value_parity,R&B / Soul | R&B,True,1.0
+negative_predictive_value_parity,Rock | Rap & HH,True,2.0
+negative_predictive_value_parity,Folk | Music,True,1.0
+negative_predictive_value_parity,Folk | Rock,True,1.0
+negative_predictive_value_parity,Folk | Singer/Songwriter,True,1.0
+negative_predictive_value_parity,Rock | Music,True,8.0
+negative_predictive_value_parity,Rock | Singer/Songwriter,True,3.0
+negative_predictive_value_parity,Hip-Hop / Rap | Rap & HH,True,2.0
+negative_predictive_value_parity,Gangsta Rap | Rap & HH,True,2.0
+negative_predictive_value_parity,Gangsta Rap | West Coast,True,1.0
+negative_predictive_value_parity,HH/Rap | West Coast,True,1.0
+negative_predictive_value_parity,Music | West Coast,True,1.0
+negative_predictive_value_parity,Rock | West Coast,True,1.0
+negative_predictive_value_parity,West Coast Rap | Rap & HH,True,2.0
+negative_predictive_value_parity,West Coast Rap | West Coast,True,1.0
+positive_predictive_value_parity,Dirty South | Rap & HH,True,5.0
+positive_predictive_value_parity,HH/Rap | Rap & HH,True,24.0
+positive_predictive_value_parity,Music | Rap & HH,True,26.0
+positive_predictive_value_parity,Classical | Soundtracks,True,2.0
+positive_predictive_value_parity,Music | Soundtracks,True,2.0
+positive_predictive_value_parity,Original Score | Soundtracks,True,2.0
+positive_predictive_value_parity,Soundtrack | Soundtracks,True,2.0
+positive_predictive_value_parity,Dance | Dance & Elec.,True,37.0
+positive_predictive_value_parity,Music | Dance & Elec.,True,39.0
+positive_predictive_value_parity,Elec. | Dance & Elec.,True,33.0
+positive_predictive_value_parity,French Pop | Dance & Elec.,True,13.0
+positive_predictive_value_parity,House | Dance & Elec.,True,20.0
+positive_predictive_value_parity,Rock | Dance & Elec.,True,22.0
+positive_predictive_value_parity,Rap | Rap & HH,True,18.0
+positive_predictive_value_parity,Adult Alternative | Alternative Rock,True,5.0
+positive_predictive_value_parity,Alternative | Alternative Rock,True,5.0
+positive_predictive_value_parity,Music | Alternative Rock,True,5.0
+positive_predictive_value_parity,Rock | Alternative Rock,True,5.0
+positive_predictive_value_parity,Dance | Pop,True,13.0
+positive_predictive_value_parity,Music | Pop,True,20.0
+positive_predictive_value_parity,Rock | Pop,True,14.0
+positive_predictive_value_parity,Cont. R&B | Pop,True,7.0
+positive_predictive_value_parity,Pop | Pop,True,16.0
+positive_predictive_value_parity,R&B / Soul | Pop,True,11.0
+positive_predictive_value_parity,Cont. Country | Country,True,11.0
+positive_predictive_value_parity,Country | Country,True,11.0
+positive_predictive_value_parity,Honky Tonk | Country,True,9.0
+positive_predictive_value_parity,Music | Country,True,11.0
+positive_predictive_value_parity,Urban Cowboy | Country,True,4.0
+positive_predictive_value_parity,Elec. | Pop,True,4.0
+positive_predictive_value_parity,Hip-Hop / Rap | Pop,True,3.0
+positive_predictive_value_parity,Pop/Rock | Pop,True,8.0
+positive_predictive_value_parity,Alternative | Rock,True,4.0
+positive_predictive_value_parity,Hard Rock | Rock,True,4.0
+positive_predictive_value_parity,Music | Rock,True,8.0
+positive_predictive_value_parity,Rock | Rock,True,8.0
+positive_predictive_value_parity,Pop | Country,False,4.0
+positive_predictive_value_parity,Teen Pop | Country,True,1.0
+positive_predictive_value_parity,Adult Alternative | Dance & Elec.,True,2.0
+positive_predictive_value_parity,Adult Alternative | House,True,1.0
+positive_predictive_value_parity,Dance | House,True,3.0
+positive_predictive_value_parity,Elec. | House,True,2.0
+positive_predictive_value_parity,Elec.a | Dance & Elec.,True,4.0
+positive_predictive_value_parity,Elec.a | House,True,2.0
+positive_predictive_value_parity,House | House,True,1.0
+positive_predictive_value_parity,Music | House,True,3.0
+positive_predictive_value_parity,Pop | Dance & Elec.,True,3.0
+positive_predictive_value_parity,Pop | House,True,1.0
+positive_predictive_value_parity,Rock | House,True,1.0
+positive_predictive_value_parity,Singer/Songwriter | Rock,True,3.0
+positive_predictive_value_parity,HH/Rap | Pop,True,3.0
+positive_predictive_value_parity,East Coast Rap | Rap & HH,True,6.0
+positive_predictive_value_parity,Hardcore Rap | Rap & HH,True,7.0
+positive_predictive_value_parity,Dance & Elec. | Elec.,True,33.0
+positive_predictive_value_parity,Dance & Elec. | Music,True,39.0
+positive_predictive_value_parity,Elec.a | Elec.,True,4.0
+positive_predictive_value_parity,Elec.a | Music,True,5.0
+positive_predictive_value_parity,Dirty South | Pop Rap,True,2.0
+positive_predictive_value_parity,Dirty South | Southern Rap,True,2.0
+positive_predictive_value_parity,HH/Rap | Pop Rap,True,2.0
+positive_predictive_value_parity,HH/Rap | Southern Rap,True,2.0
+positive_predictive_value_parity,Music | Pop Rap,True,2.0
+positive_predictive_value_parity,Music | Southern Rap,True,2.0
+positive_predictive_value_parity,Pop | Pop Rap,True,2.0
+positive_predictive_value_parity,Pop | Rap & HH,True,3.0
+positive_predictive_value_parity,Pop | Southern Rap,True,2.0
+positive_predictive_value_parity,Adult Alternative | Pop,False,2.0
+positive_predictive_value_parity,Hip-Hop | Pop,True,1.0
+positive_predictive_value_parity,Jazz | Pop,True,1.0
+positive_predictive_value_parity,Soul | Pop,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | Gangsta Rap,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | Hardcore Rap,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | Hip-Hop / Rap,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | Music,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | Rap,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | Soundtrack,True,1.0
+positive_predictive_value_parity,Gangsta & Hardcore | West Coast Rap,True,1.0
+positive_predictive_value_parity,Rap & HH | Gangsta Rap,True,2.0
+positive_predictive_value_parity,Rap & HH | Hardcore Rap,True,7.0
+positive_predictive_value_parity,Rap & HH | Hip-Hop / Rap,True,2.0
+positive_predictive_value_parity,Rap & HH | Music,True,26.0
+positive_predictive_value_parity,Rap & HH | Rap,True,18.0
+positive_predictive_value_parity,Rap & HH | Soundtrack,True,1.0
+positive_predictive_value_parity,Rap & HH | West Coast Rap,True,2.0
+positive_predictive_value_parity,Dance | Rap & HH,True,2.0
+positive_predictive_value_parity,Elec. | Rap & HH,True,2.0
+positive_predictive_value_parity,HH/Rap | Dance & Elec.,True,1.0
+positive_predictive_value_parity,HH/Rap | House,True,1.0
+positive_predictive_value_parity,Rap | Dance & Elec.,True,2.0
+positive_predictive_value_parity,Rap | House,True,1.0
+positive_predictive_value_parity,World | Dance & Elec.,True,1.0
+positive_predictive_value_parity,World | House,True,1.0
+positive_predictive_value_parity,World | Rap & HH,True,1.0
+positive_predictive_value_parity,Metal | Rock,True,2.0
+positive_predictive_value_parity,Alternative Rap | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Hip-Hop | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Hip-Hop / Rap | Dance & Elec.,True,2.0
+positive_predictive_value_parity,R&B / Soul | Dance & Elec.,True,3.0
+positive_predictive_value_parity,Soul | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Cont. R&B | Rap & HH,True,1.0
+positive_predictive_value_parity,R&B / Soul | Rap & HH,True,1.0
+positive_predictive_value_parity,Dance | Dubstep,True,1.0
+positive_predictive_value_parity,Dance | Elec.a,True,3.0
+positive_predictive_value_parity,Music | Dubstep,True,1.0
+positive_predictive_value_parity,Music | Elec.a,True,5.0
+positive_predictive_value_parity,Traditional Country | Country,True,2.0
+positive_predictive_value_parity,Classical | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Classical | Elec.a,True,1.0
+positive_predictive_value_parity,Classical Crossover | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Classical Crossover | Elec.a,True,1.0
+positive_predictive_value_parity,Elec. | Elec.a,True,4.0
+positive_predictive_value_parity,Elec.a | Elec.a,True,2.0
+positive_predictive_value_parity,House | Elec.a,True,2.0
+positive_predictive_value_parity,Rock | Elec.a,True,2.0
+positive_predictive_value_parity,Pop/Rock | Country,False,2.0
+positive_predictive_value_parity,Rock | Country,False,2.0
+positive_predictive_value_parity,Teen Pop | Pop,True,3.0
+positive_predictive_value_parity,Dirty South | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Cont. Singer/Songwriter | Pop,False,1.0
+positive_predictive_value_parity,Singer/Songwriter | Pop,False,1.0
+positive_predictive_value_parity,Cont. Country | Pop,True,1.0
+positive_predictive_value_parity,Country | Pop,False,4.0
+positive_predictive_value_parity,Honky Tonk | Pop,True,1.0
+positive_predictive_value_parity,Urban Cowboy | Pop,True,1.0
+positive_predictive_value_parity,Dance | R&B,True,1.0
+positive_predictive_value_parity,Elec. | R&B,True,1.0
+positive_predictive_value_parity,Music | R&B,True,1.0
+positive_predictive_value_parity,Pop | R&B,True,1.0
+positive_predictive_value_parity,Pop/Rock | Dance & Elec.,True,1.0
+positive_predictive_value_parity,Pop/Rock | R&B,True,1.0
+positive_predictive_value_parity,R&B / Soul | R&B,True,1.0
+positive_predictive_value_parity,Rock | Rap & HH,True,2.0
+positive_predictive_value_parity,Folk | Music,True,1.0
+positive_predictive_value_parity,Folk | Rock,True,1.0
+positive_predictive_value_parity,Folk | Singer/Songwriter,True,1.0
+positive_predictive_value_parity,Rock | Music,True,8.0
+positive_predictive_value_parity,Rock | Singer/Songwriter,True,3.0
+positive_predictive_value_parity,Hip-Hop / Rap | Rap & HH,True,2.0
+positive_predictive_value_parity,Gangsta Rap | Rap & HH,True,2.0
+positive_predictive_value_parity,Gangsta Rap | West Coast,True,1.0
+positive_predictive_value_parity,HH/Rap | West Coast,True,1.0
+positive_predictive_value_parity,Music | West Coast,True,1.0
+positive_predictive_value_parity,Rock | West Coast,True,1.0
+positive_predictive_value_parity,West Coast Rap | Rap & HH,True,2.0
+positive_predictive_value_parity,West Coast Rap | West Coast,True,1.0

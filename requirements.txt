@@ -1,0 +1,7 @@
+pandas
+numpy
+notebook
+tabulate
+matplotlib
+scikit-learn
+statsmodels

@@ -1,0 +1,151 @@
+measure,sens_attr,is_fair,counts
+accuracy_parity,sigmod conference | the vldb journal -- the international journal on very large data bases,True,71.0
+accuracy_parity,acm sigmod record | sigmod record,True,339.0
+accuracy_parity,international conference on management of data | sigmod conference,True,406.0
+accuracy_parity,acm sigmod record | sigmod conference,True,87.0
+accuracy_parity,the vldb journal -- the international journal on very large data bases | vldb,True,71.0
+accuracy_parity,international conference on management of data | vldb j.,True,68.0
+accuracy_parity,sigmod conference | very large data bases,True,155.0
+accuracy_parity,very large data bases | vldb,True,308.0
+accuracy_parity,very large data bases | vldb j.,True,67.0
+accuracy_parity,international conference on management of data | sigmod record,True,96.0
+accuracy_parity,acm trans . database syst . | acm transactions on database systems ( tods ),True,41.0
+accuracy_parity,acm sigmod record | vldb j.,True,35.0
+accuracy_parity,the vldb journal -- the international journal on very large data bases | vldb j.,True,76.0
+accuracy_parity,sigmod record | very large data bases,True,66.0
+accuracy_parity,acm sigmod record | vldb,True,83.0
+accuracy_parity,international conference on management of data | vldb,True,247.0
+accuracy_parity,acm transactions on database systems ( tods ) | sigmod record,True,23.0
+accuracy_parity,sigmod record | the vldb journal -- the international journal on very large data bases,True,54.0
+accuracy_parity,acm sigmod record | acm trans . database syst .,True,12.0
+accuracy_parity,acm transactions on database systems ( tods ) | sigmod conference,True,38.0
+accuracy_parity,acm transactions on database systems ( tods ) | vldb,True,34.0
+accuracy_parity,acm trans . database syst . | very large data bases,True,34.0
+accuracy_parity,acm trans . database syst . | international conference on management of data,True,35.0
+accuracy_parity,acm transactions on database systems ( tods ) | vldb j.,True,13.0
+accuracy_parity,acm trans . database syst . | the vldb journal -- the international journal on very large data bases,True,14.0
+statistical_parity,sigmod conference | the vldb journal -- the international journal on very large data bases,True,71.0
+statistical_parity,acm sigmod record | sigmod record,True,339.0
+statistical_parity,international conference on management of data | sigmod conference,True,406.0
+statistical_parity,acm sigmod record | sigmod conference,True,87.0
+statistical_parity,the vldb journal -- the international journal on very large data bases | vldb,True,71.0
+statistical_parity,international conference on management of data | vldb j.,True,68.0
+statistical_parity,sigmod conference | very large data bases,True,155.0
+statistical_parity,very large data bases | vldb,True,308.0
+statistical_parity,very large data bases | vldb j.,True,67.0
+statistical_parity,international conference on management of data | sigmod record,True,96.0
+statistical_parity,acm trans . database syst . | acm transactions on database systems ( tods ),True,41.0
+statistical_parity,acm sigmod record | vldb j.,True,35.0
+statistical_parity,the vldb journal -- the international journal on very large data bases | vldb j.,True,76.0
+statistical_parity,sigmod record | very large data bases,True,66.0
+statistical_parity,acm sigmod record | vldb,True,83.0
+statistical_parity,international conference on management of data | vldb,True,247.0
+statistical_parity,acm transactions on database systems ( tods ) | sigmod record,True,23.0
+statistical_parity,sigmod record | the vldb journal -- the international journal on very large data bases,True,54.0
+statistical_parity,acm sigmod record | acm trans . database syst .,True,12.0
+statistical_parity,acm transactions on database systems ( tods ) | sigmod conference,True,38.0
+statistical_parity,acm transactions on database systems ( tods ) | vldb,True,34.0
+statistical_parity,acm trans . database syst . | very large data bases,True,34.0
+statistical_parity,acm trans . database syst . | international conference on management of data,True,35.0
+statistical_parity,acm transactions on database systems ( tods ) | vldb j.,True,13.0
+statistical_parity,acm trans . database syst . | the vldb journal -- the international journal on very large data bases,True,14.0
+true_positive_rate_parity,sigmod conference | the vldb journal -- the international journal on very large data bases,True,71.0
+true_positive_rate_parity,acm sigmod record | sigmod record,True,339.0
+true_positive_rate_parity,international conference on management of data | sigmod conference,True,406.0
+true_positive_rate_parity,acm sigmod record | sigmod conference,True,87.0
+true_positive_rate_parity,the vldb journal -- the international journal on very large data bases | vldb,True,71.0
+true_positive_rate_parity,international conference on management of data | vldb j.,True,68.0
+true_positive_rate_parity,sigmod conference | very large data bases,True,155.0
+true_positive_rate_parity,very large data bases | vldb,True,308.0
+true_positive_rate_parity,very large data bases | vldb j.,True,67.0
+true_positive_rate_parity,international conference on management of data | sigmod record,True,96.0
+true_positive_rate_parity,acm trans . database syst . | acm transactions on database systems ( tods ),True,41.0
+true_positive_rate_parity,acm sigmod record | vldb j.,True,35.0
+true_positive_rate_parity,the vldb journal -- the international journal on very large data bases | vldb j.,True,76.0
+true_positive_rate_parity,sigmod record | very large data bases,True,66.0
+true_positive_rate_parity,acm sigmod record | vldb,True,83.0
+true_positive_rate_parity,international conference on management of data | vldb,True,247.0
+true_positive_rate_parity,acm transactions on database systems ( tods ) | sigmod record,True,23.0
+true_positive_rate_parity,sigmod record | the vldb journal -- the international journal on very large data bases,True,54.0
+true_positive_rate_parity,acm sigmod record | acm trans . database syst .,True,12.0
+true_positive_rate_parity,acm transactions on database systems ( tods ) | sigmod conference,True,38.0
+true_positive_rate_parity,acm transactions on database systems ( tods ) | vldb,True,34.0
+true_positive_rate_parity,acm trans . database syst . | very large data bases,True,34.0
+true_positive_rate_parity,acm trans . database syst . | international conference on management of data,True,35.0
+true_positive_rate_parity,acm transactions on database systems ( tods ) | vldb j.,True,13.0
+true_positive_rate_parity,acm trans . database syst . | the vldb journal -- the international journal on very large data bases,True,14.0
+false_positive_rate_parity,sigmod conference | the vldb journal -- the international journal on very large data bases,True,71.0
+false_positive_rate_parity,acm sigmod record | sigmod record,True,339.0
+false_positive_rate_parity,international conference on management of data | sigmod conference,True,406.0
+false_positive_rate_parity,acm sigmod record | sigmod conference,True,87.0
+false_positive_rate_parity,the vldb journal -- the international journal on very large data bases | vldb,True,71.0
+false_positive_rate_parity,international conference on management of data | vldb j.,True,68.0
+false_positive_rate_parity,sigmod conference | very large data bases,True,155.0
+false_positive_rate_parity,very large data bases | vldb,True,308.0
+false_positive_rate_parity,very large data bases | vldb j.,True,67.0
+false_positive_rate_parity,international conference on management of data | sigmod record,True,96.0
+false_positive_rate_parity,acm trans . database syst . | acm transactions on database systems ( tods ),True,41.0
+false_positive_rate_parity,acm sigmod record | vldb j.,True,35.0
+false_positive_rate_parity,the vldb journal -- the international journal on very large data bases | vldb j.,True,76.0
+false_positive_rate_parity,sigmod record | very large data bases,True,66.0
+false_positive_rate_parity,acm sigmod record | vldb,True,83.0
+false_positive_rate_parity,international conference on management of data | vldb,True,247.0
+false_positive_rate_parity,acm transactions on database systems ( tods ) | sigmod record,True,23.0
+false_positive_rate_parity,sigmod record | the vldb journal -- the international journal on very large data bases,True,54.0
+false_positive_rate_parity,acm sigmod record | acm trans . database syst .,True,12.0
+false_positive_rate_parity,acm transactions on database systems ( tods ) | sigmod conference,True,38.0
+false_positive_rate_parity,acm transactions on database systems ( tods ) | vldb,True,34.0
+false_positive_rate_parity,acm trans . database syst . | very large data bases,True,34.0
+false_positive_rate_parity,acm trans . database syst . | international conference on management of data,True,35.0
+false_positive_rate_parity,acm transactions on database systems ( tods ) | vldb j.,True,13.0
+false_positive_rate_parity,acm trans . database syst . | the vldb journal -- the international journal on very large data bases,True,14.0
+negative_predictive_value_parity,sigmod conference | the vldb journal -- the international journal on very large data bases,True,71.0
+negative_predictive_value_parity,acm sigmod record | sigmod record,True,339.0
+negative_predictive_value_parity,international conference on management of data | sigmod conference,True,406.0
+negative_predictive_value_parity,acm sigmod record | sigmod conference,True,87.0
+negative_predictive_value_parity,the vldb journal -- the international journal on very large data bases | vldb,True,71.0
+negative_predictive_value_parity,international conference on management of data | vldb j.,True,68.0
+negative_predictive_value_parity,sigmod conference | very large data bases,True,155.0
+negative_predictive_value_parity,very large data bases | vldb,True,308.0
+negative_predictive_value_parity,very large data bases | vldb j.,True,67.0
+negative_predictive_value_parity,international conference on management of data | sigmod record,True,96.0
+negative_predictive_value_parity,acm trans . database syst . | acm transactions on database systems ( tods ),True,41.0
+negative_predictive_value_parity,acm sigmod record | vldb j.,True,35.0
+negative_predictive_value_parity,the vldb journal -- the international journal on very large data bases | vldb j.,True,76.0
+negative_predictive_value_parity,sigmod record | very large data bases,True,66.0
+negative_predictive_value_parity,acm sigmod record | vldb,True,83.0
+negative_predictive_value_parity,international conference on management of data | vldb,True,247.0
+negative_predictive_value_parity,acm transactions on database systems ( tods ) | sigmod record,True,23.0
+negative_predictive_value_parity,sigmod record | the vldb journal -- the international journal on very large data bases,True,54.0
+negative_predictive_value_parity,acm sigmod record | acm trans . database syst .,True,12.0
+negative_predictive_value_parity,acm transactions on database systems ( tods ) | sigmod conference,True,38.0
+negative_predictive_value_parity,acm transactions on database systems ( tods ) | vldb,True,34.0
+negative_predictive_value_parity,acm trans . database syst . | very large data bases,True,34.0
+negative_predictive_value_parity,acm trans . database syst . | international conference on management of data,True,35.0
+negative_predictive_value_parity,acm transactions on database systems ( tods ) | vldb j.,True,13.0
+negative_predictive_value_parity,acm trans . database syst . | the vldb journal -- the international journal on very large data bases,True,14.0
+positive_predictive_value_parity,sigmod conference | the vldb journal -- the international journal on very large data bases,False,71.0
+positive_predictive_value_parity,acm sigmod record | sigmod record,True,339.0
+positive_predictive_value_parity,international conference on management of data | sigmod conference,True,406.0
+positive_predictive_value_parity,acm sigmod record | sigmod conference,False,87.0
+positive_predictive_value_parity,the vldb journal -- the international journal on very large data bases | vldb,False,71.0
+positive_predictive_value_parity,international conference on management of data | vldb j.,False,68.0
+positive_predictive_value_parity,sigmod conference | very large data bases,False,155.0
+positive_predictive_value_parity,very large data bases | vldb,True,308.0
+positive_predictive_value_parity,very large data bases | vldb j.,False,67.0
+positive_predictive_value_parity,international conference on management of data | sigmod record,True,96.0
+positive_predictive_value_parity,acm trans . database syst . | acm transactions on database systems ( tods ),True,41.0
+positive_predictive_value_parity,acm sigmod record | vldb j.,True,35.0
+positive_predictive_value_parity,the vldb journal -- the international journal on very large data bases | vldb j.,True,76.0
+positive_predictive_value_parity,sigmod record | very large data bases,True,66.0
+positive_predictive_value_parity,acm sigmod record | vldb,True,83.0
+positive_predictive_value_parity,international conference on management of data | vldb,False,247.0
+positive_predictive_value_parity,acm transactions on database systems ( tods ) | sigmod record,True,23.0
+positive_predictive_value_parity,sigmod record | the vldb journal -- the international journal on very large data bases,True,54.0
+positive_predictive_value_parity,acm sigmod record | acm trans . database syst .,True,12.0
+positive_predictive_value_parity,acm transactions on database systems ( tods ) | sigmod conference,True,38.0
+positive_predictive_value_parity,acm transactions on database systems ( tods ) | vldb,True,34.0
+positive_predictive_value_parity,acm trans . database syst . | very large data bases,False,34.0
+positive_predictive_value_parity,acm trans . database syst . | international conference on management of data,True,35.0
+positive_predictive_value_parity,acm transactions on database systems ( tods ) | vldb j.,True,13.0
+positive_predictive_value_parity,acm trans . database syst . | the vldb journal -- the international journal on very large data bases,True,14.0

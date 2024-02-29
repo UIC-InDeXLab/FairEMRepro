@@ -1,0 +1,19 @@
+measure,sens_attr,is_fair,counts
+accuracy_parity,Cauc. | Cauc.,True,21656.0
+accuracy_parity,Afr.-Am. | Afr.-Am.,True,15224.0
+accuracy_parity,Afr.-Am. | Cauc.,True,38578.0
+statistical_parity,Cauc. | Cauc.,True,21656.0
+statistical_parity,Afr.-Am. | Afr.-Am.,True,15224.0
+statistical_parity,Afr.-Am. | Cauc.,True,38578.0
+true_positive_rate_parity,Cauc. | Cauc.,True,21656.0
+true_positive_rate_parity,Afr.-Am. | Afr.-Am.,True,15224.0
+true_positive_rate_parity,Afr.-Am. | Cauc.,True,38578.0
+false_positive_rate_parity,Cauc. | Cauc.,True,21656.0
+false_positive_rate_parity,Afr.-Am. | Afr.-Am.,True,15224.0
+false_positive_rate_parity,Afr.-Am. | Cauc.,True,38578.0
+negative_predictive_value_parity,Cauc. | Cauc.,True,21656.0
+negative_predictive_value_parity,Afr.-Am. | Afr.-Am.,True,15224.0
+negative_predictive_value_parity,Afr.-Am. | Cauc.,True,38578.0
+positive_predictive_value_parity,Cauc. | Cauc.,True,21656.0
+positive_predictive_value_parity,Afr.-Am. | Afr.-Am.,True,15224.0
+positive_predictive_value_parity,Afr.-Am. | Cauc.,True,38578.0

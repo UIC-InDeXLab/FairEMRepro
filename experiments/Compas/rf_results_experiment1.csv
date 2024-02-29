@@ -1,0 +1,13 @@
+measure,sens_attr,is_fair,counts
+positive_predictive_value_parity,Caucasian,True,60234.0
+positive_predictive_value_parity,African-American,True,53802.0
+negative_predictive_value_parity,Caucasian,True,60234.0
+negative_predictive_value_parity,African-American,True,53802.0
+false_positive_rate_parity,Caucasian,True,60234.0
+false_positive_rate_parity,African-American,True,53802.0
+true_positive_rate_parity,Caucasian,True,60234.0
+true_positive_rate_parity,African-American,True,53802.0
+statistical_parity,Caucasian,True,60234.0
+statistical_parity,African-American,True,53802.0
+accuracy_parity,Caucasian,True,60234.0
+accuracy_parity,African-American,True,53802.0
