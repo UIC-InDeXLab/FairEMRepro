@@ -22,7 +22,7 @@ We tried our best to make the reproducibility process as simple as possible. Ple
 - To run Jupyter notebbok on server without browser: ```jupyter notebook --no-browser```
 
 #### :warning: Notice 1:
-Due to the long running time of the matchers, we have provided the prediction results based on a run in the repository. If you want to use the existing predictions and directly move to running the analysis, you can skip step 2. Otherwise, run the ```bash remove_results.sh``` script and move to step 3.
+Due to the long running time of the matchers, we have provided the prediction results based on a run in the repository. If you want to use the existing predictions and directly move to running the analysis, you can skip step 2. Otherwise, run the ```bash remove_script.sh``` script and move to step 3.
 
 ### Step 2:  Generating Matching Results
 - Make sure that you have docker properly installed with non-root user permissions, 
