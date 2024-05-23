@@ -1,4 +1,4 @@
-# Fair Entity Matching (Availability and Reproducability for VLDB 2024)
+# Fair Entity Matching (Availability and Reproducibility for VLDB 2024)
 
 ## A fairness suite for auditing Entity Matching approaches
 Companion repository for reproducing the results of the paper "Through the Fairness Lens: Experimental Analysis and Evaluation of Entity Matching".
@@ -7,6 +7,11 @@ Companion repository for reproducing the results of the paper "Through the Fairn
 [1] Nima Shahbazi, Nikola Danevski, Fatemeh Nargesian, Abolfazl Asudeh, and Divesh Srivastava. "Through the Fairness Lens: Experimental Analysis and Evaluation of Entity Matching." Proceedings of the VLDB Endowment 16, no. 11 (2023): 3279-3292.
 
 [VLDB Publication] <a href="https://dl.acm.org/doi/abs/10.14778/3611479.3611525">https://dl.acm.org/doi/abs/10.14778/3611479.3611525</a> <be>
+
+## Requirements:
+- Python 3.8
+- 300GB of storage (for training process)
+- Cuda-supported machine with NVIDIA GPUs
 
 ## Instructions:
 We tried our best to make the reproducibility process as simple as possible. Please be advised that to run the experiments, you need a Cuda-supported machine with NVIDIA GPUs. Please follow the three steps below:
@@ -22,7 +27,7 @@ We tried our best to make the reproducibility process as simple as possible. Ple
 - To run Jupyter notebbok on server without browser: ```jupyter notebook --no-browser```
 
 #### :warning: Notice 1:
-Due to the long running time of the matchers, we have provided the prediction results based on a run in the repository. If you want to use the existing predictions and directly move to running the analysis, you can skip step 2. Otherwise, run the ```bash remove_script.sh``` script and move to step 3.
+Due to the long running time of the matchers, we have provided the prediction results based on a run in the repository. If you want to use the existing predictions and directly move to running the analysis, you can skip step 2. Otherwise, run the ```bash remove_script.sh``` script and move to step 2.
 
 ### Step 2:  Generating Matching Results
 - Make sure that you have docker properly installed with non-root user permissions, 
